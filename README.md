@@ -112,7 +112,7 @@ Spam
 
 ## 👨‍💻 Author :
 ```
-Ritesh Halder
+Retesh Halder
 
 B.Tech IT Student
 Machine Learning Enthusiast
