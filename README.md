@@ -1,6 +1,6 @@
-# 📩 Spam SMS Classification using Machine Learning
+# Spam SMS Classification using Machine Learning
 
-## 📌 Project Overview :
+## Project Overview :
 
 This project is a Machine Learning based Spam SMS Classification system that can automatically detect whether a message is **Spam or Not Spam (Ham)**.
 
@@ -10,7 +10,7 @@ This project was completely developed step-by-step from scratch as part of pract
 
 ---
 
-## 🚀 Features :
+## Features :
 ```
 • Detect Spam messages instantly
 • Real-time prediction using Streamlit
@@ -20,7 +20,7 @@ This project was completely developed step-by-step from scratch as part of pract
 ```
 ---
 
-## 🧠 Machine Learning Workflow :
+## Machine Learning Workflow :
 
 1. Data Collection
 2. Data Cleaning
@@ -32,7 +32,7 @@ This project was completely developed step-by-step from scratch as part of pract
 
 ---
 
-## 🛠 Technologies Used :
+## Technologies Used :
 ```
 • Python
 • Scikit-learn
@@ -45,7 +45,7 @@ This project was completely developed step-by-step from scratch as part of pract
 ```
 ---
 
-## 📂 Project Structure :
+## Project Structure :
 
 ```
 Spam SMS Classification
@@ -67,7 +67,7 @@ Spam SMS Classification
 
 ---
 
-## ▶ How to Run This Project :
+## How to Run This Project :
 
 ### Step 1 Install Requirements :
 
@@ -85,7 +85,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Example :
+## Example :
 
 Input:
 
@@ -101,7 +101,7 @@ Spam
 
 ---
 
-## 🎯 Future Improvements :
+## Future Improvements :
 ```
 • Add Deep Learning model
 • Deploy on Cloud
@@ -110,7 +110,7 @@ Spam
 ```
 ---
 
-## 👨‍💻 Author :
+## Author :
 ```
 Retesh Halder
 
@@ -120,7 +120,7 @@ Learning Based Project
 ```
 ---
 
-## ⭐ If you like this project
+## If you like this project
 ```
 Please give a Star ⭐ on GitHub
 ```
